@@ -1,0 +1,51 @@
+2020-05-16 18:15:32,945   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:16:25,127   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:16:33,652   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:16:43,688   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:17:01,379   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:17:19,128   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:17:27,170   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:17:56,826   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:17:59,404   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:18:01,720   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:18:04,100   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:18:06,444   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:18:08,415   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:18:10,957   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:18:13,804   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:18:16,281   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:18:18,517   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:18:21,229   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:18:23,313   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:18:26,209   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:18:28,221   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:18:30,895   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:18:33,136   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:18:35,791   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:18:37,901   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:18:40,376   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:18:42,276   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:18:44,482   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:18:46,666   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:18:48,947   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:18:50,887   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:18:53,159   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:18:55,163   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:18:57,771   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:19:00,008   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:19:02,704   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:19:04,785   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:19:07,806   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:19:09,787   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:19:12,156   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:19:14,258   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:19:16,889   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:19:18,804   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:19:22,174   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:19:24,042   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:19:26,493   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:19:28,412   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:19:30,882   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:19:32,796   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
+2020-05-16 18:19:35,229   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-16 18:19:38,170   ibmiotf.device.Client      INFO    Connected successfully: d:v42u63:Agriculture:123456789
