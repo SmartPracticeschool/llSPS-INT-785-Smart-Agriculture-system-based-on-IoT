@@ -16,7 +16,7 @@ Data can be collected from sensors on the farm and data from OpenWeather's API. 
 
 Web App also provides Buttons to control motor equipment on the farm remotely.
 
-![Farm Controls](Images/ControlsUI.png)
+![Farm Controls](Images/ControlsUI.PNG)
 
 
 ## Node-RED program flow
