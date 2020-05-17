@@ -21,10 +21,10 @@ Web App also provides Buttons to control motor equipment on the farm remotely.
 
 ## Node-RED program flow
 
-![Flow](Images/Node-Red flow.PNG)
+![Flow](Images/Node-Red_flow.PNG)
 
 ## Virtual Farm command receiver on Python
 
 Commands sent from Node-RED and sent to the cloud and then are read by a Python script running locally to read the command and perform the intended action.
 
-![Python](img/Python_Motor.PNG)
+![Python](Images/Python_Motor.PNG)
