@@ -21,7 +21,7 @@ Web App also provides Buttons to control motor equipment on the farm remotely.
 
 ## Node-RED program flow
 
-![Flow](Images/Node-Red_flow.PNG)
+![Flow](Images/Node-Red-flow.PNG)
 
 ## Virtual Farm command receiver on Python
 
